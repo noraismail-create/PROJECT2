@@ -1,0 +1,22 @@
+{
+  "challenges": [
+    {
+      "language": "Python",
+      "difficulty": "Easy",
+      "prompt": "___('Hello')",
+      "answers": ["print"]
+    },
+    {
+      "language": "Python",
+      "difficulty": "Medium",
+      "prompt": "",
+      "answers": [""]
+    },
+    {
+      "language": "Python",
+      "difficulty": "Hard",
+      "prompt": "",
+      "answers": [""]
+    }
+  ]
+}
